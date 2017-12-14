@@ -21,12 +21,12 @@
  - I fill stronger in backend of connections, hope that I will use this skills in future when will be configure own server for my projects. 
 
 
-### TASK 1
+### TASK 2
 
  **Version Control with Git** - finished [(view screenshot)](task_2/Udacity__Version_Control_with_Git__finished.jpg) [(Udacity link)](https://classroom.udacity.com/courses/ud123/)
 
  **GitHub & Collaboration** - finished [(view screenshot)](task_2/Udacity__Github_and_collaboration__finished.jpg) [(Udacity link)](https://classroom.udacity.com/courses/ud456)
  
- - I was refreshed information from last girl's course about Git, and first course was much interesting and deeper for me, but this one had more practice and fun. 
+ - I was refreshed information from last girls' course about Git, and first course was much interesting and deeper for me, but this one had more practice and fun. 
  - I understand --amend, references, upstream, got good things about "backup" branches, and saw rebase in action. 
  - I will use most of all these commands on practice. I think the deeper understanding will come on practice.
