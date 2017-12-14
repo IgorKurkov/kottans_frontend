@@ -30,3 +30,14 @@
  - I was refreshed information from last girls' course about Git, and first course was much interesting and deeper for me, but this one had more practice and fun. 
  - I understand --amend, references, upstream, got good things about "backup" branches, and saw rebase in action. 
  - I will use most of all these commands on practice. I think the deeper understanding will come on practice.
+
+
+### TASK 3
+
+ **HTML and CSS Syntax** - finished [(view screenshot)](task_3/Udacity__HTML_and_CSS_Syntax__finished.jpg) [(Udacity link)](https://classroom.udacity.com/courses/ud001)
+  
+ - I refreshed fundamentals of HTML & CSS, had a fun with quizzes and I really like Cameron's explanations))
+ - I use all of this and much more.
+ - It was a good idea to refresh these things)
+
+  
