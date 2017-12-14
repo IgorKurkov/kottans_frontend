@@ -1,11 +1,14 @@
 # kottans_frontend
 
-### Task 0
+### TASK 0
 **How to use git and github** - finished [(view screenshot)](task_0/Udacity__How_to_use_git_and_Github__finished.jpg) [(Udacity link)](https://classroom.udacity.com/courses/ud775)
 
 - I was learned about conflicts, pull requests in action, fetch as a part of pull, upstream. 
 - I can do enything in bash) open files in browser, explorer, open folders, delete, create, rename, move, copy paths to clipboard! Exellent) This is not about git but I was excited)
 - I'll use all the things what I learned in course. It's really cool)
+
+
+----------
 
 
 ### TASK 1
@@ -21,6 +24,9 @@
  - I fill stronger in backend of connections, hope that I will use this skills in future when will be configure own server for my projects. 
 
 
+----------
+
+
 ### TASK 2
 
  **Version Control with Git** - finished [(view screenshot)](task_2/Udacity__Version_Control_with_Git__finished.jpg) [(Udacity link)](https://classroom.udacity.com/courses/ud123/)
@@ -31,6 +37,8 @@
  - I understand --amend, references, upstream, got good things about "backup" branches, and saw rebase in action. 
  - I will use most of all these commands on practice. I think the deeper understanding will come on practice.
 
+----------
+
 
 ### TASK 3
 
@@ -40,4 +48,5 @@
  - I use all of this and much more.
  - It was a good idea to refresh these things)
 
-  
+----------
+
