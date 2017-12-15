@@ -55,8 +55,8 @@
  **Responsive Web Design Fundamentals** - finished [(view screenshot)](task_4/Udacity__Responsive_web_Design_fundamentals__finished.jpg) [(Udacity link)](https://classroom.udacity.com/courses/ud893)
 
  - I refreshed some things of responsive techniques.
- - All is ordinary except responsive tables for me.
- - All things in use except flex order and "no tables" technique.
+ - All are ordinary except responsive tables for me.
+ - All things are in use excepts flex order and "no tables" technique.
 
 ----------
 
