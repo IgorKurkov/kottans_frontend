@@ -64,7 +64,7 @@
 
  **Intro to JavaScript** - finished [(view screenshot)](task_5/Udacity__Intro_to_javascript__finished.jpg) [(Udacity link)](https://classroom.udacity.com/courses/ud803)
 
- - New for me was nouns of technical words on english - I learning more of tech terms)
+ - I refreshed some things of arrays and objects.
  - I usually use template literals (``) and really new for me was \n \t - escaping of new lines and tabs in strings.
  - All things are in use except forEach that it is a bit heavy. But very useful. But map is better. 
 
