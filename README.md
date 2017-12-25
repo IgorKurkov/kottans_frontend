@@ -70,5 +70,34 @@
 
 ----------
 
+### TASK 6
 
+ **Object-Oriented JavaScript** - finished [(view screenshot)](task_6/Udacity__Object_Oriented_JavaScript__finished.jpg) [(Udacity link)](https://classroom.udacity.com/courses/ud015)
+
+ - It was very hard and interesting. I saw every lesson couple of times despite I already used prototypes in past. 
+ - New for me was that Entity.prototype.method save for you memory. earlier I wrote methods directly in class through this.method as class property - what increased memory usage, as I learned from this course. 
+ - I will use this all new features of js in my future projects. But I must to learn harder because it is very difficult case to understand, that required much more time to figured out all the things about OOP. 
+When I mining knowledge from videos, I had written [addon for chrome](https://chrome.google.com/webstore/detail/udacity-yt-subtitles-view/phmkmmaonaailokhjpfpcegeonbblgjd?utm_source=chrome-app-launcher-info-dialog) [(repo)](https://github.com/IgorKurkov/Udacity-YT-subtitles-viewer), that help to extract english subtitles and view them on the same page near the video. That gave me ability to translate unknown tutor's words on the fly for better understanding this really useful course.
+
+Get play for fun!
+
+[FROGGER GAME (my version)](https://igorkurkov.github.io/frontend-nanodegree-arcade-game/)
+
+
+[see the REPO](https://github.com/IgorKurkov/frontend-nanodegree-arcade-game)
+
+Was added:
+
+- functionality for enemy, player, collisions, etc
+- levels
+- new BUGS
+- player states
+- difficulty managing
+- lives
+- buttons for playing on mobile devices
+- unexpected behavior))
+
+![image](task_6/frogger-how-to.gif)
+
+----------
 
