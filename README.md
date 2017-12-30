@@ -101,7 +101,7 @@ Was added:
 
 ----------
 
-### TASK 6
+### TASK 7
 
  **Offline Web Applications** - finished [(view screenshot)](task_7/Udacity__Offline_web_applications__finished.jpg) [(Udacity link)](https://classroom.udacity.com/courses/ud899)
 
