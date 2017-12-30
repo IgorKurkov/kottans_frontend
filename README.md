@@ -101,3 +101,13 @@ Was added:
 
 ----------
 
+### TASK 6
+
+ **Offline Web Applications** - finished [(view screenshot)](task_7/Udacity__Offline_web_applications__finished.jpg) [(Udacity link)](https://classroom.udacity.com/courses/ud899)
+
+
+ - All was new for me. I really excited! It's amazing for UX in any sites or web apps.
+ - I see the power of sw.js in action. Service Worker can do anything with requests, so sites becomes native apps. 
+ - So, I'll ~~be back~~ return to this course later, and dig deeper into IndexedDb and sw because I'll use all these features in my further ideas. It's really cool!
+
+ ----------
