@@ -111,3 +111,15 @@ Was added:
  - So, I'll ~~be back~~ return to this course later, and dig deeper into IndexedDb and sw because I'll use all these features in my further ideas. It's really cool!
 
  ----------
+
+### TASK 8
+
+## Pair game
+
+[**Source**](https://github.com/IgorKurkov/pair-game)
+
+[**Demo**](https://igorkurkov.github.io/pair-game/)
+
+![screen](task_8/pair-game-how-to.gif)
+
+ ----------
