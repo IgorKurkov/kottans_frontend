@@ -123,3 +123,28 @@ Was added:
 ![screen](task_8/pair-game-how-to.gif)
 
  ----------
+
+### TASK 9
+
+[ ] Web performance optimisation
+
+ ----------
+
+### TASK 10
+
+## Weather app
+
+[**Source**](https://github.com/IgorKurkov/weather-app) | [**Demo**](https://igorkurkov.github.io/weather-app/?=Varshava)
+
+
+- [x] autocomplete (contains) search of cities on either languages (cyrillic or latin or arabic whatever)
+- [x] allowed url queries and browser navigation history
+- [x] Extra: Saves cities for you, even if you shut down (!) Browser
+- [x] recent cities / add to favorite cities / clear cities
+- [x] count of searches for even city
+- [x] ES6 modular frontend application
+
+
+![screen](task_10/weather-how-to.gif)
+
+ ----------
