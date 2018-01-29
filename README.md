@@ -126,7 +126,7 @@ Was added:
 
 ### TASK 9
 
-[ ] Web performance optimisation
+- [ ] Web performance optimisation
 
  ----------
 
